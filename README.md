@@ -31,7 +31,7 @@
 - **float height(int currTime,int startHeight)** - расчет высоты над землей в секунду **currTime** (**startHeight** - начальная высота).
 - **main()** - организация диалога.
 
-Как и в задачах первого практикума создаются три файла: **task1.h,task1.c,main1.c**.
+Как и в задачах первого практикума создаются три файла: **task1.h,task1.cpp,main1.cpp**.
 
 ### Задача №2
 
@@ -158,21 +158,21 @@
 ## Содержимое pull-запроса
 
 - task1.h
-- task1.c
-- main1.c
+- task1.cpp
+- main1.cpp
 - task2.h
-- task2.c
-- main2.c
+- task2.cpp
+- main2.cpp
 - task3.h
-- task3.c
-- main3.c
+- task3.cpp
+- main3.cpp
 - task4.h
-- task4.c
-- main4.c
+- task4.cpp
+- main4.cpp
 - task5.h
-- task5.c
-- main5.c
+- task5.cpp
+- main5.cpp
 - task6.h
-- task6.c
-- main6.c
-- main7.c
+- task6.cpp
+- main6.cpp
+- main7.cpp
